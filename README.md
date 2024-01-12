@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Marcilia! 🚀 Aspiring Web Developer on a Coding Odyssey 🌐</h1> 
 
-<!--
-**MarciliaS/marcilias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>A passionate individual on an exciting journey to master the art of web development. 🖥️ Currently immersed in the world of HTML, CSS, and JavaScript, I'm on a mission to turn my coding dreams into reality.</b>
+
+<br>
+<h2>🚧 Currently Under Construction</h2>
+
+
+
+
+
+
+<!-- **MarciliaS/marcilias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
